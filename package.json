@@ -2,7 +2,7 @@
   "name": "qa-extension-pack",
   "displayName": "QA Extension pack by Shelex",
   "description": "Everything you need for writing tests with VS Code and Cypress",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "shevtsov",
   "engines": {
     "vscode": "^1.58.1"
@@ -15,9 +15,6 @@
     "Other",
     "Extension Packs"
   ],
-  "galleryBanner": {
-    "theme": "dark"
-  },
   "icon": "logo.png",
   "repository": {
     "type": "git",
