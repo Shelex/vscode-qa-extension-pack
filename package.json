@@ -1,0 +1,43 @@
+{
+  "name": "qa-extension-pack",
+  "displayName": "QA Extension pack by Shelex",
+  "description": "Everything you need for writing tests with VS Code and Cypress",
+  "version": "1.0.0",
+  "publisher": "shevtsov",
+  "engines": {
+    "vscode": "^1.58.1"
+  },
+  "author": {
+    "name": "Oleksandr Shevtsov",
+    "email": "ovr.shevtsov@gmail.com"
+  },
+  "categories": [
+    "Other",
+    "Extension Packs"
+  ],
+  "galleryBanner": {
+    "theme": "dark"
+  },
+  "icon": "logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shelex/vscode-qa-extension-pack"
+  },
+  "homepage": "https://github.com/Shelex/vscode-qa-extension-pack/blob/master/README.md",
+  "bugs": {
+    "url": "https://github.com/Shelex/vscode-qa-extension-pack/issues"
+  },
+  "license": "Apache-2",
+  "extensionPack": [
+    "shevtsov.vscode-cy-helper",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "CoenraadS.bracket-pair-colorizer",
+    "streetsidesoftware.code-spell-checker",
+    "paulhoughton.vscode-jscpd",
+    "alexkrechik.cucumberautocomplete",
+    "pflannery.vscode-versionlens",
+    "Gruntfuggly.todo-tree"
+  ]
+}
