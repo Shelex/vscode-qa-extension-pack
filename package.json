@@ -2,10 +2,10 @@
   "name": "qa-extension-pack",
   "displayName": "QA Extension pack by Shelex",
   "description": "Everything you need for writing tests with VS Code and Cypress",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "publisher": "shevtsov",
   "engines": {
-    "vscode": "^1.58.1"
+    "vscode": "1.60.0"
   },
   "author": {
     "name": "Oleksandr Shevtsov",
@@ -30,7 +30,6 @@
     "esbenp.prettier-vscode",
     "dbaeumer.vscode-eslint",
     "eamodio.gitlens",
-    "CoenraadS.bracket-pair-colorizer",
     "streetsidesoftware.code-spell-checker",
     "paulhoughton.vscode-jscpd",
     "alexkrechik.cucumberautocomplete",
